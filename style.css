@@ -1,0 +1,61 @@
+body {
+
+background-color: #EDBFC6;
+margin : 5%; 
+color : #110D0C;
+font-family: 'Dancing Script', cursive;
+
+}
+
+
+h1{
+	color: #432E36;
+	font-size
+}
+
+.image-grande-taille {
+	width: 70%;
+	;
+}
+
+.image-taille-moyenne {
+	width: 33%;
+	object-fit: cover;
+
+}
+
+
+.center-content {
+	text-align: center;
+}
+
+div {
+	background-color: #AF8D86;
+	padding : 2%; 
+	margin: 5%; 
+	
+}
+
+.elements-aligned{
+	display : flex;
+	justify-content: space-around;
+	margin: 10%;
+}
+
+.link-aligned{
+	display: flex;
+	justify-content: space-around;
+	padding: 3%;
+	border: 2px solid #898989;
+}
+
+
+a {
+	color : #E3E3E3;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #C84630;
+	font-weight: 700;
+}
